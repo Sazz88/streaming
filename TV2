@@ -2,7 +2,7 @@
 
 
 
-
+01eb1168208940f8b270b4e0994570e7:e75165d38b909567c03353ae4b27b6f8
 
 
 
@@ -159,7 +159,7 @@ https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=01eb1168208940f8b270b4e0994570e7:e75165d38b909567c03353ae4b27b6f8
+#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
 #EXTINF:-1 tvg-id="306.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAEC_2024.png" group-logo="" group-title="Cina",AEC
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2400/default_ott.mpd 
 #####https://mt13.aa.astro.com.my/default_ott.mpd
