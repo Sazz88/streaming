@@ -95,3 +95,56 @@ https://webr24.hypp.tv:443/PLTV/88888888/224/3221225762/3221225762.mpd?rrsip=web
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
 #EXTINF:-1 tvg-id="121.unifi" ch-number="121" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-logo="" group-title="Malaysia",Siar
 https://webr24.hypp.tv:443/PLTV/88888888/224/3221225775/3221225775.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=0qNmkKxoaBHZHWaJ6oPRK0NpUPPlNIizjdIyGrsxTUWg%2Fmdbf9Q6kTneH0kXa8sYgrHOZeLa9A%2Bf8OQru0a7VBBq7BZJQokJ4CQmKX5ZNvS97w2C0YBz%2FfjwbjM2H76625cdc8b7851e9983d8da835424ecd376%3A20250923130458%3AUTC%2C1005926114%2C118.100.198.240%2C20250923130458%2Curn%3AHuawei%3AliveTV%3AXTV56919296%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C56919306%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOQQrCMBREb5NlsDWJ6SIrRRCkCq1u5Zv8xNK0qUkVvL1WC25n5g1vjKBxt1GGC6aNNVYgZ4hwNSgzW0gmrGCykCThvQwqJxq8b3pXBjNh52p9yRZ0QXO2pFnOST39bT24eVo-uivGP1dhfDYalUmWPiFRcC6ig7EJPT16eJ2inycE69ktW3EpmBC5YAUn45TWkNpPQ26Q1qEbIKLZB_cFlAWfkAygW3BYQoeqf3j_4w7RfGzeQ6dUU_UAAAA
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+#EXTINF:-1 tvg-id="108.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-logo="" group-title="Malaysia",Citra
+https://linears2-playback.astro.com.my/vsg/410r4jfnnWVbJD_fsZYjP48yagO7cWuRchg75_9rMMOTQ=vPuj/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+#####https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mp
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="Malaysia",Citra Movies
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7192c458481368dda1ecb65ec945710:03f1c0ae1cec374f3b7d494c7436d3fd
+#EXTINF:-1 tvg-id="105.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-logo="" group-title="Malaysia",Prima
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5135/default_ott.mpd
+
+#####KODIPROP:inputstreamaddon=inputstream.adaptive
+#####KODIPROP:inputstream.adaptive.manifest_type=dash
+#####KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#####KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#####EXTINF:-1 tvg-id="105.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-logo="" group-title="Malaysia",Prima
+#####https://linears2-playback.astro.com.my/vsg/41htiA982EsvsiRc7E0Sy_ux976Vg848JcMICCW8LWguQ=dJAX/dash-wv/jitp-dashisowm/1000/default_ott.mpd
+#####https://mt02.aa.astro.com.my/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#EXTINF:-1 tvg-id="104.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png" group-logo="" group-title="Malaysia",Ria  
+https://linears2-playback.astro.com.my/vsg/419yhGdvUZX3pvxffCya5W7oy1Z4jZr-1nMO1EkD2QMpg=tvgB/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#####https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:mimetype=application/dash+xml
+#EXTINF:-1 tvg-id="DramaHebat" tvg-logo="https://mediaready.vr.ctrp.astro.com.my/astro/image/fetch/f_auto,fl_lossy,q_100,h_auto,w_400/https://datastore.vr.ctrp.sooka.my/content/images/fbc3fcDramaHebat_v1.png" group-logo="" group-title="Malaysia",Drama Hebat
+https://a86c4b70738a4e12b44c7fed76d977a4.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:mimetype=application/dash+xml
+#EXTINF:-1 tvg-id="FilemMantap" tvg-logo="https://mediaready.vr.ctrp.astro.com.my/astro/image/fetch/f_auto,fl_lossy,q_100,h_auto,w_400/https://datastore.vr.ctrp.sooka.my/content/images/d42fcaFilemMantap.png" group-logo="" group-title="Malaysia",Filem Mantap
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH2_FILEMMANTAP/dash.mpd
