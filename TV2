@@ -1,0 +1,27 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,"
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-logo="" group-title="Malaysia",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png" group-logo="" group-title="Malaysia",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-id="103.unifi" ch-number="103" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="Malaysia",TV3 
+https://live-ssar-02.tonton.com.my/1758647391/0x62202f9312f11a45db9a912c2ce56f91aacb5fc329d2b9b7525cca9429873b85/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10d3b36e118-bbd1846f-7f91-4097-bb14-5952e5a58fbd&category=all&did=9f8b9994-2509-8efd-c109-956ae1e5fa04&dnt=0&ifatype=sessionid&lot_auds=ca_803%2Cca_773%2Cca_1056%2Cca_730%2Cca_364%2Cca_005%2Cca_797%2C%2Cca_1101%2Cca_378%2Cca_672%2Cca_384%2Cca_420%2Cca_394%2Cca_305%2Cca_775%2Cca_724%2Cca_972%2Call%2Cca_365%2Cca_290%2Cca_288%2Cca_330%2Cca_897&mm_sp&plt=web&ttd_uid2=A4AAABfnLlosi4zhJRVVwe-UDXLpKJhTHhivMdJfzbKYELuwknP97vWGudt8TSiF9uSt29YX59lvpVtzKLfhGDYZby1r5lwR4WF7M8HiiQPaDkOTll7PadY5la4VtRojRVsTFYOBEnnBHY0P-k3zWe6cXA5dLFqd9W0T_5ALQtlkdE6TmExec9bTRdOts3j2GPutqsuaqrF0Q32CksrzinVwKQ
+
+#EXTINF:-1 tvg-id="TV6.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv6_Trans.png" group-logo="" group-title="Malaysia",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a9c619074ed38c20e25ad36c3c57c10c&key=BW4eSVc9LK7ly0/nj4xPPQ
+#EXTINF:-1 tvg-id="108.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-logo="" group-title="Malaysia",8TV
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
