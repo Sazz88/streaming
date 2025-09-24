@@ -728,7 +728,7 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGZkOTEwNjAtMzJmNy0zNTBmLWFmYWMtMGRlZWI1ZjhkNjMy
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
 #EXTINF:-1 tvg-id="474.unifi" ch-number="474" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-logo="" group-title="Movies",Rock Action
 https://webr24.hypp.tv:443/PLTV/88888888/224/3221225714/3221225714.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=t407KpAGdrA1MzRPZ0QC90qrdCN0QvHSRfPxzKlg2l497ap0euQzsTktK01lbSLAy%2FWPdEd1%2Bq5mbhJ3ppGx%2Bkq4AyoUX3Uf3Gh9gQItZ%2FTxCo3CXNvUaUVnt%2BVbgVdc8d002d7941b6672b72a2e77c747abf4c%3A20250924081756%3AUTC%2C1005926114%2C118.100.198.240%2C20250924081756%2Curn%3AHuawei%3AliveTV%3ASP000002372888%2C1005926114%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C38729863%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOTYvCMBRF_02WofnoJFlkpQgDQx2wuh2eyWumNG00qcL8e61TcHvvPZczZ3D4ubVnhI4r6YQ0KGujdSU-0BvpjEDdaUUKXptkOXEQYz-FJvkFOx02P6yiFeVSUMZr0i5_uwhhnTa38Yz5zR0w33uH1peO3qFQCCFjgLlPE_2O8HfMcZ0QbFc3pmqtWK2ZUNyQeUlbKMOzIb9QNmm8QEb_lcILsB3EguQCboCADYxop1uM_9w--6fNAxelwDL1AAAA
     
