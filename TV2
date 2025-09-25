@@ -61,20 +61,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-logo="" group-title="Malay",Degup
 https://webr24.hypp.tv:443/PLTV/88888888/224/3221225748/3221225748.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=RZv%2BYhmUc%2F5KecKVR8AF0AIljGRGi%2BkHtivhVk%2F0MHoFw%2BzU4nXavwbASP13A4yNCwjBnc6eRJbTb9i25TkHEnepljdUZN10xNTSuObzsVD8Tj3daIcy%2FyQh5PXlW%2BcM97c962d022760776e28c6c8c54be0487%3A20250924080407%3AUTC%2C1005926114%2C118.100.198.240%2C20250924080407%2Curn%3AHuawei%3AliveTV%3AXTV55631601%2C1005926114%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C55633563%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOwY7CIBRF_4YlKRRGumClMZlkUk3suDWP8mAaaVGoTfz7abWJ23vvuTljgha_d7oSRonKGfbFQTiuTCkQnDVS2kqVRUUy3uuoOWkhhG7wdbQLdj5tL6ygBeWipIxL0ix_-wB-ndaP3mD6cCdMU9eittnRCTIF7xN6GLs40GOA528K64Rgs7qxjVQbJoRUpeJkXNIG8nVuyB_kbexvkND-RP8CtIOQkdygvYLHGnrUwyOEN3dIdrb5B2jG7wP1AAAA
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975
 #EXTINF:-1 tvg-id="128.unifi" ch-number="128" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="Malay",Dunia Sinema
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225726/3221225726.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=NMdmg89KSr7EdZ4HvtDFEM8hpbdBXxCH6u%2B94TYOsWLpXnNOkD%2Br%2BesvBaSkBx3bsFtHtZ0T6caNwedXrpAEq4altBVbhPONRDQ4HqfVXo5izE5cw9yhZwXQClM8x11m757ccbe389e7e0412042b1c8cc5b19d8%3A20250924080532%3AUTC%2C1005926114%2C118.100.198.240%2C20250924080532%2Curn%3AHuawei%3AliveTV%3AXTV100001461%2C1005926114%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C38729749%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWO0QqCMBiF32aXQ21zerGrIgjCAq3b-N1-lzidbRb09mkJ3Z7zfYczeVB42EnMRCLqPKqbHBhrVJZyAZlmCdvUqc5TEvBROJkQBda2gymcXrRrub3FEY3ozNE44aRa9vYWzIoWz75G__dK9K9WodShoS8IFIzxaGBq3UDPFt4Xb1eEYLV-iwXPRMyjNOeMkWlJKwjd3JA7hK3rR_Coj858BdmADUhGUB0YLKBHOTyt_Xknr-c3H2V1wrj1AAAA
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
 #EXTINF:-1 tvg-id="118.unifi" ch-number="118" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-logo="" group-title="Malay",Inspirasi
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225742/3221225742.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=vhwuWJqOUK86g416MTOl5t3rB%2FCTEJd8uCECzjmH2FEU7wMRSBRddRDDfA6C7nyzO8xIkaMX5YxCKVoGpEFWyhGOV63CU8IRj6lBdygE%2B59E0Coo42JXucJ7q31uizE%2Feb2554e8294d611ef3390961ec31262c%3A20250924080632%3AUTC%2C1005926114%2C118.100.198.240%2C20250924080632%2Curn%3AHuawei%3AliveTV%3Aiptv21343%2C1005926114%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C38683387%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOQYvCMBhE_02OockmtR5ychEEqQt297pMk6-xmDZuUgX_vVYLe52ZN7wpwdLu03TKaWuVcJ2rFNa6LSuLslCS0JZKSJbpr45GMosQ-tHX0c3Yz3HzKwpecKk-uJCaNfPfNsAv0_o6tJT-uSOlW2_JuNzxGzKH94k8pj6O_Cvg_p3CMmHULG5ipauV0EKutVZsmtMG-fxs2Al5E4cLErl99C_AdAiZ2AX2DE81BjLjNYQ3d0juafMATr9Y8_UAAAA
- 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Inspirasi)/master.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -87,15 +87,15 @@ https://webr24.hypp.tv:443/PLTV/88888888/224/3221225703/3221225703.mpd?rrsip=web
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
 #EXTINF:-1 tvg-id="116.unifi" ch-number="116" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" group-logo="" group-title="Malay",Sensasi
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225762/3221225762.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=y7JblqIv04Pr1abe9ph5eIrYQga%2BXsOjqT2iYTQT2XrUpW0hNdANcMARDV1OUbsQiMGI58RxCaeMaaZFA8RdsNXQDN%2B9r2qzJ3Mro%2BS1cZpk1JaycsxmYd96Vs42mwPPbe4a9e27fd529640701edb4ba19c7ad0%3A20250924080844%3AUTC%2C1005926114%2C118.100.198.240%2C20250924080844%2Curn%3AHuawei%3AliveTV%3ASP000004015718%2C1005926114%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C38675409%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOwYrDIBRF_8alxBi1Lly1FApDZiCZ2ZZXfbEhJmY0LfTv28wEur33nstZElg8HYwqGNcglZYVr1AKzSsuNJPWcex26EjG3zqaklgIoZ98Hd2K_TT7MytoQcuKU1YK0q5_xwB-m9a38YLpzTWY7r1F43JH75ApeJ_Qw9LHiX4FeHynsE0ItpsbU2KnmCglE0qTZU1byMOrIVfI-zjOkNB9RP8HmA5CRjKDHcBjDSOa6RbCP_eZ3MvmCa36bV71AAAA
- 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Sensasi)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 #EXTINF:-1 tvg-id="121.unifi" ch-number="121" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-logo="" group-title="Malay",Siar
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225775/3221225775.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=KybajWYsDJRZ8Nq7S7QgD0%2BaXgR%2Bz3d8P2cAVcy1FguCxnqj1xZEeWC%2F%2B5DdcxF74cUE1oPLxDVOLbaADr%2FrlCBjzqCjQsKf2XYCWN2FE3V8teQ%2BvONxmerBBZi02kiod4c2bbfd4d265685b0ef8ab8c183f577%3A20250924080945%3AUTC%2C1005926114%2C118.100.198.240%2C20250924080945%2Curn%3AHuawei%3AliveTV%3AXTV56919296%2C1005926114%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C56919306%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOQUvEMBhE_02OoUka0x5yWlkQpApbvco0-RrLps2adBf892614HVm3vDWDEdPj7bVgzKubYHR1Kh8U2NQzYPWgxhNoxUr9NUlK5lDjNMSuuQ37P10-BAVr7isFRdSs377O0aEfdpd54HyP3eifJscWV9GfkPhCCFTwDqlhb9GfL_luE8Y9bubMLoxQispdavYuqU9yvnesE-UQ5ovyOSfU_gF7IhYiF3gzgjUYSa7XGP8416yv9v8AKd8HNf1AAAA
- 
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live31.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
