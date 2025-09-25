@@ -384,6 +384,12 @@ https://jmp2.uk/stvp-USBB2900001P9
 #EXTINF:-1 tvg-id="KRBC32000191N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20250402T010148SQUARE.png" group-title="Korea" tvg-chno="741",CJ ENM MOVIE
 https://jmp2.uk/stvp-KRBC32000191N
 
+#EXTINF:-1 tvg-id="KR12000017G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR12000017G_20250811T061419SQUARE.png" group-title="Korea" tvg-chno="742",Genie Movie
+https://jmp2.uk/stvp-KR12000017G
+
+#EXTINF:-1 tvg-id="KRBC3200004D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20250402T010410SQUARE.png" group-title="Korea" tvg-chno="744",PLAYGRAM MOVIES
+https://jmp2.uk/stvp-KRBC3200004D1
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
