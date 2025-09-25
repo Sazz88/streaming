@@ -13,12 +13,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv2_Trans.png" group-logo="" group-title="Malay",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:eb86f0cb81d7823251c153bf8517b816461f0be0
 #EXTINF:-1 tvg-id="103.unifi" ch-number="103" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="Malay",TV3 
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225724/3221225724.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=5R1YOJTQsGRXrhXrHNwcz37AAEH%2FPYxcvR%2Fa%2F8FLkFH2gHKWIk8jm3xfg9zuuaNrApA%2BL7YTUhuITjYTvTq6dPudZ4q26owIg%2BFv%2FerLdjrzORFoNAVTwObwWpujJCTWb27f2e11b0344e3d32f7ffb3ca337073%3A20250924080222%3AUTC%2C1005926114%2C118.100.198.240%2C20250924080222%2Curn%3AHuawei%3AliveTV%3Aiptv182%2C1005926114%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C43361030%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWO0QqCMBiF32aXwy1terGrIgjCAq3b-Of-LXE62yzo7csSuj3nfIdvCtDgfiuVQoQ8VUwIk4rCFFqshVaoMq5yzAoS8V56yUkDzrWDLb2esUu1ubKEJpSnK8p4Rur5b-fALtPy0SsMf67C8GwblDoa-oRIwdqAFqbWD_Tk4HUObpkQrBc3JrJcsBVLCp5wMs1pDbH7NOQGceP7EQLqg7dfQBpwEckITQcWS-hRDg_nftwx6I_NG_-3vNr1AAAA
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
 
 #EXTINF:-1 tvg-id="TV6.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv6_Trans.png" group-logo="" group-title="Malay",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
