@@ -60,7 +60,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=002c2aae6eee424cbc08416347b1c452
+#KODIPROP:inputstream.adaptive.license_key=https://stream-cloud.api.tm.quickplay.com/user/stream/delete/002c2aae-6eee-424c-bc08-416347b1c452
 #EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-logo="" group-title="Malay",Degup
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DEGUP)/master.mpd
 #####https://webr24.hypp.tv:443/PLTV/88888888/224/3221225748/3221225748.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=RZv%2BYhmUc%2F5KecKVR8AF0AIljGRGi%2BkHtivhVk%2F0MHoFw%2BzU4nXavwbASP13A4yNCwjBnc6eRJbTb9i25TkHEnepljdUZN10xNTSuObzsVD8Tj3daIcy%2FyQh5PXlW%2BcM97c962d022760776e28c6c8c54be0487%3A20250924080407%3AUTC%2C1005926114%2C118.100.198.240%2C20250924080407%2Curn%3AHuawei%3AliveTV%3AXTV55631601%2C1005926114%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C55633563%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOwY7CIBRF_4YlKRRGumClMZlkUk3suDWP8mAaaVGoTfz7abWJ23vvuTljgha_d7oSRonKGfbFQTiuTCkQnDVS2kqVRUUy3uuoOWkhhG7wdbQLdj5tL6ygBeWipIxL0ix_-wB-ndaP3mD6cCdMU9eittnRCTIF7xN6GLs40GOA528K64Rgs7qxjVQbJoRUpeJkXNIG8nVuyB_kbexvkND-RP8CtIOQkdygvYLHGnrUwyOEN3dIdrb5B2jG7wP1AAAA
