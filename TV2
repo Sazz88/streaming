@@ -65,13 +65,6 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DEGUP)/mast
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=A1623B766E4B48EB88CEA29E1C309CC7:002c2aae6eee424cbc08416347b1c452
-#EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-logo="" group-title="Malay",Degup2
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(DEGUP)/master.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975
 #EXTINF:-1 tvg-id="128.unifi" ch-number="128" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="Malay",Dunia Sinema
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27.mpd
