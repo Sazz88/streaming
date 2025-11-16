@@ -706,7 +706,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 #EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Galaxy.png" group-logo="" group-title="Movies",Galaxy
 https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
-#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Galaxy.png" group-logo="" group-title="Movies",Galaxy
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Galaxy.png" group-logo="" group-title="Movies",Galaxy 2
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2694.ts
 
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/GalaxyPremium.png" group-logo="" group-title="Movies",Galaxy Premium
