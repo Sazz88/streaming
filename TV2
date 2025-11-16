@@ -711,17 +711,19 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
 #EXTINF:-1 tvg-id="412.astro" ch-number="550" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809084408736zam.png" group-logo="" group-title="Movies",Cinemax
 https://webr24.hypp.tv:443/PLTV/88888888/224/3221225778/3221225778.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=NrxGGTO6%2FTjINDvIjEfXHmw%2BWFkp0Z%2Bm20DiBYjH364Ysv%2F9rcV3X%2FM54ydvSGviuCR0iqwBHFVTJt9ohRQK3kGOK33XtxiB%2Bk5zKDzMEciu3sq2JaWPXhEC0vaAmz5nc068ec7f37d91927672d4be1eade5bff%3A20250924081547%3AUTC%2C1005926114%2C118.100.198.240%2C20250924081547%2Curn%3AHuawei%3AliveTV%3AXTV64139437%2C1005926114%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C64139447%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOQQrCMBREb5NlaNKkbRZZKYIgVbC6ld_kG4tpo0kVvL1WC25n5g1vjGBwvdRWtSpTmUAlQRietzlX3BTKsEJII0qS8F4HzYkB77vB1cFO2HG_OLGMZpSLnDIuSTP9rTy4eVo_-hbjn9tjfHYGtU1n-oREwbmIDsYuDHTn4XWIfp4QbGY3VsqqZLKoRKEqMk5pA-n6acgF0iL0N4hoN8F9AX0Gn5DcwFzBYQ096uHh_Y_bRvuxeQN8VvZb9QAAAA
     
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
 #EXTINF:-1 tvg-id="411.astro" ch-number="550" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809082222536837.png" group-logo="" group-title="Movies",Hbo
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
-#EXTINF:-1 tvg-id="411.astro" ch-number="550" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809082222536837.png" group-logo="" group-title="Movies",Hbo
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225792/3221225792.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=96DTZgXohYb20y27zB8B3TsXroxQihRPIqfHG4CMF1rfMUpKRpswLlhdTvW2wQkAFSv8xVn3J373DkcVTBxtpp%2BdeOk38MeKQN6cdILXoDyziv489Loqa9Xzeiun5F6y1654dd93a59b4694e4821ccecb91d0df%3A20250924081647%3AUTC%2C1005926114%2C118.100.198.240%2C20250924081647%2Curn%3AHuawei%3AliveTV%3AXTV64139408%2C1005926114%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C64139418%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWO0QqCMBiF32aXY9PZ9GJXRRCEBVm38bf9LnG62lTo7csSuj3nfIdvCKBxt1FG5nKFhWa6yAXXrKhFLpFxNLdUGgEk4rP0KiEanGt6W3ozY5fT-soZZTQRKeVJRqr5b-vALtNy7G4Y_twJw9RoVCbWdIJIwdqAFobG9_To4HUObpkQrBY3LrNc8kwKIZOUDHNaQWw_DblDXPvuAQHN3tsvoGpwEckDdAsWS-hQ9aNzP-4QzMfmDSyHdtP1AAAA
+#####KODIPROP:inputstreamaddon=inputstream.adaptive 
+#####KODIPROP:inputstream.adaptive.manifest_type=dash
+#####KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#####KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#####EXTINF:-1 tvg-id="411.astro" ch-number="550" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202308/20230809/20230809082222536837.png" group-logo="" group-title="Movies",Hbo
+#####https://webr24.hypp.tv:443/PLTV/88888888/224/3221225792/3221225792.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=96DTZgXohYb20y27zB8B3TsXroxQihRPIqfHG4CMF1rfMUpKRpswLlhdTvW2wQkAFSv8xVn3J373DkcVTBxtpp%2BdeOk38MeKQN6cdILXoDyziv489Loqa9Xzeiun5F6y1654dd93a59b4694e4821ccecb91d0df%3A20250924081647%3AUTC%2C1005926114%2C118.100.198.240%2C20250924081647%2Curn%3AHuawei%3AliveTV%3AXTV64139408%2C1005926114%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C64139418%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWO0QqCMBiF32aXY9PZ9GJXRRCEBVm38bf9LnG62lTo7csSuj3nfIdvCKBxt1FG5nKFhWa6yAXXrKhFLpFxNLdUGgEk4rP0KiEanGt6W3ozY5fT-soZZTQRKeVJRqr5b-vALtNy7G4Y_twJw9RoVCbWdIJIwdqAFobG9_To4HUObpkQrBY3LrNc8kwKIZOUDHNaQWw_DblDXPvuAQHN3tsvoGpwEckDdAsWS-hQ9aNzP-4QzMfmDSyHdtP1AAAA
  
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
