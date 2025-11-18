@@ -16,9 +16,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#####KODIPROP:inputstream.adaptive.license_key=ce43641a061a4fb9d95d986cfc9a68f:35381e1b91904fe6b351581922f1a98d
+#####KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 #EXTINF:-1 tvg-id="103.unifi" ch-number="103" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png" group-logo="" group-title="Malay",TV3 
-https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
+https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=tv3
 #####https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
 
 #EXTINF:-1 tvg-id="TV6.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv6_Trans.png" group-logo="" group-title="Malay",TV6
@@ -78,19 +78,26 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live29.mpd
 #https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Inspirasi)/master.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
 #EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-logo="" group-title="Malay",Salam
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225703/3221225703.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=MWW6mdPBwjE0uqVuQRVTmUFbZj9cd9zWkvSqb6Mvt4HmaqbtnUWYU9zROJ1K1A7angCPAM%2FgN%2F7O5wIV6Ru3PwzFMbaDnW8BUWzaegSbgrV3%2B921%2Bt6Zfx52rTJJNEq%2Fb8939762ebebe81eec88de524faafa3e%3A20250924080746%3AUTC%2C1005926114%2C118.100.198.240%2C20250924080746%2Curn%3AHuawei%3AliveTV%3Aiptv47777%2C1005926114%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C38675356%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOwarCMBRE_ybL0KRNrYusfAiCVMHqVqbpbSymjSZV8O-1WnjbmTnDGQMMbf50gURQmlNbZDKDwFJC5ailqRUZUdQs0r30WjID57rBlr6ZsNNhdRYJT7jMUi6kYtX0t3aw87R89DWFf-5A4dkZ0k1s-RORw9pAFmPnB753eB2DmyeMqtlNLFSxEEomqcozNk5phXj9NOyCuPL9DYGarbdfQLdwkdgN5gpLJXrSw8O5H7cLzcfmDS-XJKH1AAAA
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
+
+#####KODIPROP:inputstreamaddon=inputstream.adaptive 
+######KODIPROP:inputstream.adaptive.manifest_type=dash
+######KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+######KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+######EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-logo="" group-title="Malay",Salam
+######https://webr24.hypp.tv:443/PLTV/88888888/224/3221225703/3221225703.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=MWW6mdPBwjE0uqVuQRVTmUFbZj9cd9zWkvSqb6Mvt4HmaqbtnUWYU9zROJ1K1A7angCPAM%2FgN%2F7O5wIV6Ru3PwzFMbaDnW8BUWzaegSbgrV3%2B921%2Bt6Zfx52rTJJNEq%2Fb8939762ebebe81eec88de524faafa3e%3A20250924080746%3AUTC%2C1005926114%2C118.100.198.240%2C20250924080746%2Curn%3AHuawei%3AliveTV%3Aiptv47777%2C1005926114%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C4032425163%2C%2C%2C2%2C1%2C38675356%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOwarCMBRE_ybL0KRNrYusfAiCVMHqVqbpbSymjSZV8O-1WnjbmTnDGQMMbf50gURQmlNbZDKDwFJC5ailqRUZUdQs0r30WjID57rBlr6ZsNNhdRYJT7jMUi6kYtX0t3aw87R89DWFf-5A4dkZ0k1s-RORw9pAFmPnB753eB2DmyeMqtlNLFSxEEomqcozNk5phXj9NOyCuPL9DYGarbdfQLdwkdgN5gpLJXrSw8O5H7cLzcfmDS-XJKH1AAAA
  
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
+#####KODIPROP:inputstreamaddon=inputstream.adaptive 
+#####KODIPROP:inputstream.adaptive.manifest_type=dash
+#####KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#####KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZjE4YTYwZjEtNTlmZS0zMDYxLWIzNmItOTRhZjRlOTBkYzdl
 #####EXTINF:-1 tvg-id="116.unifi" ch-number="116" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png" group-logo="" group-title="Malay",Sensasi
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Sensasi)/master.mpd
+#####https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Sensasi)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -381,6 +388,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/ImcV3.png" group-logo="" group-title="Indon",IMC
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/ImcV3.png" group-logo="" group-title="Indon",IMC2
+https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -811,7 +825,7 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
 #####KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="474.unifi" ch-number="474" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-logo="" group-title="Movies",Rock Action
-https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
 #####KODIPROP:inputstreamaddon=inputstream.adaptive 
 #####KODIPROP:inputstream.adaptive.manifest_type=dash
