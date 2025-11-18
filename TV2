@@ -825,7 +825,7 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
 #####KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="474.unifi" ch-number="474" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-logo="" group-title="Movies",Rock Action
-https://fta1-cdn-flr.visionplus.id/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #####KODIPROP:inputstreamaddon=inputstream.adaptive 
 #####KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -879,14 +879,14 @@ https://linears2-playback.astro.com.my/vsg/41AZ2N9BHPajfdDzZ2SS6qLrvLkCcSOsaC4T5
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #EXTINF:-1 tvg-id="801.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="Sports",Astro Arena
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 #EXTINF:-1 tvg-id="802.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="Sports",Astro Arena 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
@@ -981,43 +981,35 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_ott.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #EXTINF:-1 tvg-id="820.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="" group-title="Sports",beIN Sports 1 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTINF:-1 tvg-id="821.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-logo="" group-title="Sports",beIN Sports 2 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BCohvyNspymx40PtbgpjNw", "kid":"IMiE747Saydi+LGnjy0ZEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #EXTINF:-1 tvg-id="822.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-logo="" group-title="Sports",beIN Sports 3
 https://linearjitp04-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wx746KwRObmFrDZzACtwFA", "kid":"NLgxqXRQHRBvZUXp+T3gEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
 #EXTINF:-1 tvg-id="818.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT4.png" group-title="Sports",beIN Sports 4 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_ott.mpd
-
-#####KODIPROP:inputstreamaddon=inputstream.adaptive 
-#####KODIPROP:inputstream.adaptive.manifest_type=dash 
-#####KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#####KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2E0MDgyMmYtMzFkNi0zYWFkLTgyODYtZTA5MDFiNjUyNmZh
-#####EXTINF:-1 tvg-id="710.unifi" ch-number="711" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220812/20220812083713068j19.png" group-logo="" group-title="Sports",beIN SPORTS 4 ᵘⁿⁱᶠⁱ
-#####https://pop5clustera00f00619231b2c6f32bd.hypp.tv/wh7f454c46tw3408208185_-1518598277/PLTV/88888888/224/3221225696/3221225696.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=jEum0cJPFr1gl82%2B8jgQpeqWGVU4%2FlmA2l6Wgpe1IprvqYem01t4Mdz%2FPYRDhv4G8FWIVMlZRNboBO07mL4aiOJu3C7AMsxUdwIu26sVQVY%3D7f0bba2ee844d1585ea9c1fc51fa55b2%3A20250312201014%3AUTC%2C1005926113%2C60.51.28.137%2C20250312201014%2Curn%3AHuawei%3AliveTV%3AXTV57682031%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1615850%2C0%2C521145%2C3562503466%2C%2C%2C2%2C1%2C57682041%2CEND&GuardEncType=2&RTS=1741810215&from=5&hms_devid=59&mag_hms=59,58&it=H4sIAAAAAAAAAy2MvQrCMBgA36ZjyJ82DpmUgksQqq7yJfkSArHBpBZ8e610PLi7uYLD80kHZXuOyqudFNL1zoJjXlkP1NNwCLJr-DJFi85BzmmKpvg1u4_HB6OEEi4FYXzfXdffkCFq_lfN-2mxbvDrRqxLcqh9C2SBRiDGihHmVCZyyfC51bwpX563Y_eaAAAA
-#####https://web.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Rj2HfDtqnFlIuQRatW1t0Q", "kid":"feQDGn4QebL/OI2hHbmnEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=7de4031a7e1079b2ff388da11db9a710:463d877c3b6a9c5948b9045ab56d6dd1
 #EXTINF:-1 tvg-id="819.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT5.png" group-title="Sports",beIN Sports 5 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5086/default_ott.mpd
 
@@ -1027,14 +1019,14 @@ https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 #EXTINF:-1 tvg-id="832.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCricket_2024.png" group-logo="" group-title="Sports",Cricket
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2504/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KGObz7XL7o/5yjmPz1v80A", "kid":"cFurXmRbbXyVWIspUg+BEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
 #EXTINF:-1 tvg-id="831.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-logo="" group-title="Sports",Golf
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
@@ -1048,37 +1040,23 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 #EXTINF:-1 tvg-id="833.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/190px-Premier_sports_logo_2018.svg.png?20180923092838" group-logo="" group-title="Sports",Premier Sports 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dYgj5Oq7bkyMA20HPbRrjA", "kid":"wOGASqHZ/ZxBxBvw9hpfEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
 #EXTINF:-1 tvg-id="823.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-logo="" group-title="Sports",SPOTV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7W1n2VPRSwJrJgLPiEZXfg", "kid":"Xv0m2lABNjtNb6SpyBKtEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 #EXTINF:-1 tvg-id="824.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV2.png" group-logo="" group-title="Sports",SPOTV 2 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
-#####EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Spl01.png" group-logo="" group-title="Sports",SPORT 1 
-https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
-#####EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Spl02.png" group-logo="" group-title="Sports",SPORT 2 
-https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 #EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/sukan_Trans.png" group-logo="" group-title="Sports",Sukan RTM
 https://raw.githubusercontent.com/mystery75/m3u8/main/SUKANRTM.m3u8
@@ -1094,14 +1072,14 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nNXA0eVMIuA12I3Twd/ITA", "kid":"AQy7nPGgHq04Bwcw04vHEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
 #EXTINF:-1 tvg-id="826.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/W-Sport.png" group-logo="" group-title="Sports",W-Sport
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 
 #####KODIPROP:inputstreamaddon=inputstream.adaptive 
 #####KODIPROP:inputstream.adaptive.manifest_type=dash 
 #####KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#####KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
+#####KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
 #####EXTINF:-1 tvg-id="830.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-logo="" group-title="Sports",WWE Network
 #####https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
